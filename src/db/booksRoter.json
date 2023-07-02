@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Poema de Gilgamesh",
+    "author": "Anónimo",
+    "age": "Siglo XVII a. C.",
+    "country": "Sumeria e Imperio acadio",
+    "language": "Acadio",
+    "description": "La Epopeya de Gilgamesh o el Poema de Gilgamesh (2500-2000 a. C) es una narración acadia en verso sobre las peripecias del rey Gilgamesh (también transcrito como Gilgameš). Está basada en cinco poemas independientes sumerios, que constituyen la obra épica más antigua conocida.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/British_Museum_Flood_Tablet_1.jpg/800px-British_Museum_Flood_Tablet_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Libro de Job (de la Biblia)",
+    "author": "Anónimo",
+    "age": "Siglo VI A.C. - IV A.C.",
+    "country": "Imperio aqueménida",
+    "language": "Hebreo",
+    "description": "Es el sufrimiento del inocente Job. Ya desde la más remota Antigüedad los pensadores se han enredado en el espinoso problema del hombre bueno que sufre y del malo feliz. Incluso Platón se preocupó del asunto y le dio una formulación precisa, aunque sin encontrarle una solución que no chocara contra la filosofía y la moral.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Folio_82r_-_Job_Mocked_by_His_Friends.jpg/800px-Folio_82r_-_Job_Mocked_by_His_Friends.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Las mil y una noches",
+    "author": "Anónimo",
+    "age": "700–1500",
+    "country": "India/Irán/Irak/Egipto",
+    "language": "Árabe",
+    "description": "Las mil y una noches,  es una recopilación medieval de cuentos orientales tradicionales. La obra fue tomando forma durante el transcurso de varios siglos con las contribuciones de diferentes escritores y traductores del Oriente Próximo. Muchas historias eran originalmente cuentos populares de los períodos abasí y mameluco, mientras que otras, especialmente la que sirve de marco narrativo, provienen muy probablemente de la obra persa pahlaví Hezār Afsān, que a su vez contenía algunos elementos indios. La obra utiliza la forma del relato enmarcado, es decir, de relatos que se incluyen dentros de otros relatos.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sughrat.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Saga de Njál",
+    "author": "Anónimo",
+    "age": "Siglo XIII",
+    "country": "Islandia",
+    "language": "Nórdico antiguo",
+    "description": "La Saga de Nial o Njál, también Brennunjálssaga (saga de la quema de Njál) es una obra literaria narrativa y escrita en prosa, cuyo protagonista es Nial. Pertenece a las sagas islandesas del siglo XIII y su autor es desconocido, escrita entre 1270 y 1290 muchos críticos la consideran la mejor de su género, y aún hoy es admirada por los lectores islandeses. En todo caso, es la más famosa de las sagas islandesas y, según algunos autores del mundo anglosajón, uno de los mejores trabajos en prosa del mundo. Se conservan unos sesenta manuscritos, de los cuales treinta son pergaminos medievales.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Nj%C3%A1ls_Sogubot.jpg/800px-Nj%C3%A1ls_Sogubot.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Todo se desmorona",
+    "author": "Chinua Achebe",
+    "age": "1958",
+    "country": "Nigeria",
+    "language": "Inglés",
+    "description": "Todo se desmorona (título original en inglés, Things Fall Apart) es una novela en inglés escrita por el autor nigeriano Chinua Achebe y publicada en 1958. Se ve como la arquetípica novela africana moderna en inglés, y una de las primeras novelas africanas escritas en inglés que ha recibido un aplauso global de la crítica. Es un libro básico en las escuelas de toda África y se lee y estudia ampliamente en los países de habla inglesa de todo el mundo. El título de la novela procede del poema de William Butler Yeats The Second Coming",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Things_Fall_Apart_books_02.jpg/1024px-Things_Fall_Apart_books_02.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cuentos infantiles",
+    "author": "Hans Christian Andersen",
+    "age": "1835–37",
+    "country": "Dinamarca",
+    "language": "Danés",
+    "description": "Hans Christian Andersen (Odense, 2 de abril de 1805-Copenhague, 4 de agosto de 1875) fue un escritor y poeta danés famoso por sus cuentos para niños, entre ellos El patito feo, La sirenita, El traje nuevo del emperador y La reina de las nieves.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HCA_by_Thora_Hallager_1869.jpg/800px-HCA_by_Thora_Hallager_1869.jpg"
+  }
+]

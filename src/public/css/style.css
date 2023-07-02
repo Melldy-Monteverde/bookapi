@@ -1,0 +1,15 @@
+body {
+  background-color: #efefef;
+}
+
+.card {
+  border: 2px solid #000;
+  border-radius: 5px;
+  max-width: 500px;
+  margin-bottom: 10px;
+}
+
+.card-img {
+  object-fit: contain;
+  width: 100%;
+}
